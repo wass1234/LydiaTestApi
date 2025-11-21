@@ -4,9 +4,7 @@ package-lock.json
 
 # Cypress
 cypress/videos/
-cypress/screenshots/
 cypress/downloads/
-cypress/reports/
 
 # IDE
 .vscode/
